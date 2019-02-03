@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="my">#00c0ff</color>
+    <color name="my2">#007b9d</color>
+    <color name="accent_material_light_1">#ffc845</color>
+    <color name="accent_material_light_2">#ffc845</color>
+    <color name="background_material_dark">#d91010</color>
+    <item name="Birds" type="id"/>
+    <item name="Carrots" type="id"/>
+    <item name="Wizards" type="id"/>
+    <item name="Potatoes" type="id"/>
+    <item name="Pterosauruses" type="id"/>
+    <item name="Blackholes" type="id"/>
+    <item name="Vikings" type="id"/>
+    <item name="Krakens" type="id"/>
+    <item name="Cupcakes" type="id"/>
+    <item name="Totems" type="id"/>
+    <item name="Птицы" type="id"/>
+    <item name="Морковки" type="id"/>
+    <item name="Чародеи" type="id"/>
+    <item name="Картофелины" type="id"/>
+    <item name="Птерозавры" type="id"/>
+    <item name="Чёрные" type="id"/>
+    <item name="Викинги" type="id"/>
+    <item name="Кракены" type="id"/>
+    <item name="Кексики" type="id"/>
+    <item name="Тотемы" type="id"/>
+
+
+</resources>

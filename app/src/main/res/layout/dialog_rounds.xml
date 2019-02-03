@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bgcreategame1"
+    >
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="20dp"
+        android:scaleType="center"
+        android:text="Enter rounds number"
+        android:contentDescription="@string/app_name" />
+
+    <EditText
+        android:id="@+id/password"
+        android:inputType="number"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif"/>
+
+    <ImageButton
+        android:id="@+id/password1"
+        android:layout_width="60dp"
+        android:layout_height="30dp"
+        android:src="@drawable/next"
+
+        android:layout_marginTop="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="16dp"/>
+</LinearLayout>
