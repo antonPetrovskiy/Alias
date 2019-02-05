@@ -9,7 +9,7 @@ Android game
 			Create game<br>
 		</th>
 		<th width="33%">
-			Round playing<br>
+			Round gameplay<br>
 		</th>
     <th width="33%">
 			Game result<br>
