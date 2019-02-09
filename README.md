@@ -1,5 +1,5 @@
 # Alias
-Android game
+Android board game
 
 ## Highlights
 
